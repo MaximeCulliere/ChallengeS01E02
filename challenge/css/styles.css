@@ -4,7 +4,10 @@
 body {
     font-family: sans-serif;
     background-color: #fff3db;
+    width:800px;
+    margin:auto;
 }
+
 
 
 h1 {
